@@ -1,0 +1,162 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:32:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:32:30] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:32:30] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:32:53] "POST /review HTTP/1.1" 200 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:33:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\ImageScrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:34:36] "POST /review HTTP/1.1" 200 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:34:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:35:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:28] "POST /review HTTP/1.1" 200 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:29] "POST /review HTTP/1.1" 200 -
+INFO:root:'NoneType' object is not callable
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:37:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\ImageScrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:41:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:41:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:41:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:Tag.index: element not in tag
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:41:48] "POST /review HTTP/1.1" 200 -
+INFO:root:Tag.index: element not in tag
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:42:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\ImageScrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:46:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:46:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:46:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:[<img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicjDObTW2SkLKVlWK7fSaZ89PTyzJV7ztxGA7X4SbN1vKLs7TLWwUeLjx-7I&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABkMzMCMjHSRX7m_GtvBmh1NCl5ryiDU6d2EkHPNPyQrkNYqcVnv-nXXWHw&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ktJ-QHB9hrUvyWlp9H0b2cONhkEiO50rnJJdzSAaGNAEpbK6ciEqooO2nso&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBdmI4YZK9gHUrlpZtrDDXwy5YLOu3rXV8mC6y2P-2hqDv2xqmHyJteUYyQ&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpY1poalAziuya_u3mJOWXjiEo9LoMdEfT6IjFCSP2dljxuvUE0tXZwvg7sA&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwz4crDvqGk5LQTSmjolsxuF7Innn3yDPIjDJ5lzVnVL6Zruxn2RyZeBmF04&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5uLbxbayl9rutWPz0pUpUvQf9bcqzsLeoceqV38K8_WNTnx5V10Wo0wzFw&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEkJZqb4s5aaSzYytG5-qT9PLbXpf2eTMAyYn02659Gtx2GhP4RpE5Vbmzeo&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2SZBcpkkWa9MqQ1k9Pazsc3vO_emlwfw407gP6t4gZcRPJult7umTUXlM5c&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6cINPXTdqMdmeYE_8SHcpFrdem6CCus1vfL0o77bvRgfiXfKhSLlRWqINfw&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1EAq9qUkaj0VyxnVKyTSh9WclyrsRyUsX1Xb3RsHt7HYDxYYM5toyIvUW8w&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWCLg1kTkYKPagLGtRurCZBij-xZ9AQYvcoQVfyfYdQlhToCOF4bdCic9Vd9o&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu3iZgCHgf0HClj0r3GMTWfEbzFOat58o0U0PcTHRL6LyV5d8dNZrgaIiig&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8zLX43DS6Gsfnrg9rWTukJw2YasMUGvnYa0xsBlLKPKUCL601OIDfo4jheA&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXlIyhETaSI59h-nTQIlrbNOGOwzpvUaoGzNSg-5NWQhDiyYMsOqpZa_DSx0&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jlyZz49ZafHQEZyY5UkFMQ0cKxFUSA0iuDEilSV6ZvIRGgIazxv2f6nGnA&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQUJnKbyT7NNK2sNNcmgnBdLlV1mLyRd68zoDLY_0-Vg7X6qxLTv78D_jEO8&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUlUcXhHEjUfq9sAcYhK02N85P9wPRcxO-P2j39klJtndV60UYsrhf7FvLVA&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GcBuWR3QilL5oZv9zMF3G3YP0fEnbX2nMsiwNC3rnC7QvN4BKATNhuwWFuE&amp;s"/>, <img alt="" class="DS1iW" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHwolHnRCx46APcQBJtx8zCs1mO5NPOEAX9Jmorc_J3MdPAiUiz-gHVqKA&amp;s"/>] is not in list
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:46:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\ImageScrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 117-264-818
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:48:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:48:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 538-542-945
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:52:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:52:25] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:52:25] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:52:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 815-966-494
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:57:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:57:08] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:57:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 11:57:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:00:28] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\ImageScrapper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 815-966-494
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 815-966-494
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:06] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:03:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:04:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:04:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:04:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:07:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:07:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:07:38] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:08:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:26] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:10:37] "[33mGET /static/images/your_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:11:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:11:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:11:47] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:23] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:12:37] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:03] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:13:54] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:03] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:15:50] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:16:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:16:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:16:34] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:17:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:17:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Jun/2024 12:17:54] "GET /static/css/style.css HTTP/1.1" 200 -

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Result Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 class="header">Image Successfully Loaded</h1>
+
+    <div class="result-message">
+        <p>Your images have been successfully loaded and saved.</p>
+        <a href="/">Back to Search</a>
+    </div>
+</div>
+{% endblock %}
+
+
+
